@@ -3,3 +3,5 @@ print ("azad")
 
 
 v = 3
+
+print("tamal")

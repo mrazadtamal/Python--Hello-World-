@@ -7,3 +7,6 @@ print(v)
 
 print("tamal")
 print("abid ")
+
+
+import this

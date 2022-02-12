@@ -2,7 +2,7 @@ print("Hello World")
 print ("azad")
 
 
-v = 3
+v = 8888
 print(v)
 
 print("tamal")

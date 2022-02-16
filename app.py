@@ -7,7 +7,9 @@ print(v)
 
 print("tamal")
 print("abid ")
+print("tamal")
 
 
 
 import this
+
